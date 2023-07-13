@@ -1,0 +1,22 @@
+superuser: 
+    username: admin
+    password: 123456
+
+========================================
+
+customers:
+    c1, c2, c3, c4, c5, c6,c6, c7
+
+admins: 
+    a1, a2
+
+managers: 
+    m1, m2
+
+delivery crews: 
+    d1, d2
+
+unassigned user: 
+    test1
+
+password of these users: littlelemon@123!
